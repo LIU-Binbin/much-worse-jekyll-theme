@@ -4,9 +4,9 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/photo.jpeg" caption="" max_width="300px" align="right" %}
 
-Welcome! I am ## Binbin LIU --, a physics master's student in Prof. Xian-Lei Sheng’s group at Beihang University, after my bachelor’s degree at the same University. I have broad research interests in topological condensed matter physics and material’s transport. I am currently looking for a Ph. D. position in related fields, focusing on computations and theories. I am also interested in doing experiments.
+I am a physics master's student in Prof. Xian-Lei Sheng’s group at Beihang University, after my bachelor’s degree at the same University. I have broad research interests in topological condensed matter physics and material’s transport. I am currently looking for a Ph. D. position in related fields, focusing on computations and theories. I am also interested in doing experiments.
 
 ## Contact
 
