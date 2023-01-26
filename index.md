@@ -6,15 +6,16 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Welcome! I am ## Binbin LIU --, a physics master's student in Prof. Xian-Lei Sheng’s group at Beihang University, after my bachelor’s degree at the same University. I have broad research interests in topological condensed matter physics and material’s transport. I am currently looking for a Ph. D. position in related fields, focusing on computations and theories. I am also interested in doing experiments.
 
 ## Contact
 
-Rebel base <br />
+Binbin LIU <br />
+Email: [bbliu@buaa.edu.cn]
+
+
+<!-- 
 [Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
-
-
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+-->
+[bbliu@buaa.edu.cn]: mailto:bbliu@buaa.edu.cn
