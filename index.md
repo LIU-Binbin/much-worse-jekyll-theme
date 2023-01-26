@@ -10,8 +10,8 @@ permalink: /
 
 ## Short CV
 2020-present: M. sc. in Physics, Beihang University, Beijing, China <br />
-2016-2020: B. sc. in Applied Physics, Honors College of Beihang University, Beijing, China
-You can also [download the PDF here](assets/CV_BinBin_Liu.pdf).
+2016-2020: B. sc. in Applied Physics, Honors College of Beihang University, Beijing, China <br />
+You can also [download my full CV here](assets/CV_BinBin_Liu.pdf).
 
 ## Contact
 Binbin LIU <br />
