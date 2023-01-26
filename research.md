@@ -16,20 +16,6 @@ pubs:
         - name: "IMDB"
           url:  "http://www.imdb.com/title/tt0133093/"
 
-
-- title: "Second-order and real Chern topological insulator in twisted bilayer $\ensuremath{\alpha}$-graphyne"
-  author: "Liu, Bin-Bin and Zeng, Xu-Tao and Chen, Cong and Chen, Ziyu and Sheng, Xian-Lei"
-  journal: "Phys. Rev. B"
-  volume: "106"
-  issue: "3"
-  pages: "035153"
-  numpages: "9"
-  year: "2022"
-  month: "Jul"
-  publisher: "American Physical Society"
-  doi: "10.1103/PhysRevB.106.035153"
-  url: "https://link.aps.org/doi/10.1103/PhysRevB.106.035153"
-
 ---
 
 ## Publications (peer reviewed)
