@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /index/
+permalink: /
 ---
 
 {% include image.html url="images/photo.jpeg" caption="" max_width="300px" align="right" %}
