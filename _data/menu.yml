@@ -1,12 +1,7 @@
 - title: "Research"
-  href: "research/"
- subcategories:
-    - subtitle: "Interests"
-      subhref: "/research/Interests/"
-    - subtitle: "Publications"
-      subhref: "/research/Publications/"
+  href: "/research/"
       
       
 - title: "CV"
-  href: "cv/"
+  href: "/cv/"
 
