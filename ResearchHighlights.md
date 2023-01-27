@@ -34,7 +34,7 @@ We discover Rashba spin-splitting quantum well states developed near the surface
 
 
 ## Higher-order Topology in Moiré Superlattice <br />
-{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" max_width="90px" align="left" %}
+{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" max_width="50px" align="left" %}
 We identify the twisted bilayer α-graphyne as a new second-order topological insulator from first-principles and model calculations and demonstrat that the second-order topological states in moiré honey-comb lattices are generally induced by moiré magnetism or Zeeman fields.
 
 
