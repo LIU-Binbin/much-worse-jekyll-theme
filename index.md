@@ -16,7 +16,7 @@ You can also [download my full CV here](assets/CV_BinBin_Liu.pdf).
 ## Publications
 [1] **Binbin Liu et al.**, _Second-order and real Chern topological insulator in twisted bilayer α-
 graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/export/10.1103/PhysRevB.106.035153). [[PDF](assets/papers/PhysRevB.106.035153.pdf)]<br />
-[2] **Wang Yang*, Binbin Liu*, et al.**, _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022), (Letter)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401) [[PDF](assets/papers/PhysRevB.106.L241401.pdf)]. <br />
+[2] **Wang Yang\* , Binbin Liu\* , et al.**, _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022), (Letter)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). [[PDF](assets/papers/PhysRevB.106.L241401.pdf)] <br />
 [3] Xu-Tao Zeng, Ziyu Chen, Cong Chen, Binbin Liu, et al., Topological hinge modes in
 Dirac semimetals, Front. Phys. 18, 13308 (2023). <br />
 [4] Binbin Liu†, Xian-Lei Sheng†, Yuxin Zhao†and Shengyuan A. Yang, Non-centered inversion symmetry in momentum space. (To be submitted to PRL.) <br />
