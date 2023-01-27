@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research Highlights
 
-<!--
+
 pubs:
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
@@ -37,4 +37,4 @@ pubs:
 
 {% endfor %}
 
--->
+
