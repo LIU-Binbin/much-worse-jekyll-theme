@@ -11,7 +11,7 @@ permalink: /
 # Short CV
 2020-2023: M. Sc. in Physics, School of Physics, Beihang University, Beijing, China. <br />
 2016-2020: B. Sc. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
-You can also [view my full CV here](assets/CV_BinBin_Liu.pdf).
+You can also [view my latest full CV here](assets/CV_BinBin_Liu.pdf).
 
 # Publications
 [1] **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-
