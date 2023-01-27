@@ -5,6 +5,7 @@ permalink: /ResearchHighlights/
 ---
 
 # Non-centered inversion symmetry in momentum space <br />
+{% include image.html url="https://LIU-Binbin.github.io/assets/research/non-centerBZ.JPG" caption="" max_width="350px" align="left" %}
 <!--We discovered non-centered inversion symmetries in the momentum space from projective
 symmetry algebras, identified and characterized novel twisted inverse topological edge
 states with off-centered crossing points in the momentum space, distinct from edge
@@ -26,14 +27,18 @@ momentum space. We design topological circuits that correspond to our Hamiltonia
 simulations, which agree with our theoretical predictions. Our findings suggest new routes for
 exploring topological edge responses with projective symmetries in artificial systems.
 
-{% include image.html url="https://LIU-Binbin.github.io/assets/research/non-centerBZ.JPG" caption="" max_width="300px" align="right" %}
-
 
 # Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
+{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" max_width="350px" align="left" %}
+We discovered Rashba spin-splitting quantum well states developed near the surface of Bi2Se3 decorated with transition-metal atoms Cu or Au, explaining the observed unusual large BMR in experiments.
 
-{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.jpg" caption="" max_width="300px" align="right" %}
 
+# Higher-order Topology in Moiré Superlattice <br />
+{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" max_width="350px" align="left" %}
 
-{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.jpg" caption="" max_width="300px" align="right" %}
+We identified twisted bilayer α-graphyne as a new second-order topological insulator from
+first-principles and demonstrated that the second-order topological states in moiré honey-comb lattices are generally
+induced by moiré magnetism or Zeeman fields.
+
 
 
