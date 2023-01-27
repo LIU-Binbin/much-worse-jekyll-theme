@@ -1,6 +1,8 @@
 title: Binbin LIU
-description: Jekyll theme for academic page and blog
+description: Binbin LIU, Beihang University
+<!--
 sourcecode: "http://liu-binbin.github.io"
+-->
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
