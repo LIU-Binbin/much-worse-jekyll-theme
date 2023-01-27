@@ -9,8 +9,8 @@ permalink: /
  I am a physics master’s student in Prof. Xian-Lei Sheng’s group at Beihang University, with broad research interests in topological condensed matter physics and material sciences. I am currently looking for a Ph. D. position focusing on computations and theories, although I am also interested in experiments in related fields.
 
 ## Short CV
-2020-present: M. sc. in Physics, Beihang University, Beijing, China <br />
-2016-2020: B. sc. in Applied Physics, Honors College of Beihang University, Beijing, China <br />
+2020-2023: M. sc. in Physics, Beihang University, Beijing, China. <br />
+2016-2020: B. sc. in Applied Physics, Honors College of Beihang University, Beijing, China. <br />
 You can also [download my full CV here](assets/CV_BinBin_Liu.pdf).
 
 ## Publications
@@ -30,7 +30,7 @@ Dirac semimetals_, [Front. Phys. 18, 13308 (2023)](https://link.springer.com/art
 
 
 ## Contact
-Binbin LIU <br />
+Binbin LIU, Beihang University <br />
 Email: [bbliu@buaa.edu.cn]
 
 
