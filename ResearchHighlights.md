@@ -29,12 +29,12 @@ exploring topological edge responses with projective symmetries in artificial sy
 
 
 ## Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
-{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" max_width="260px" align="left" %}
+{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" max_width="200px" align="left" %} <br />
 We discovered Rashba spin-splitting quantum well states developed near the surface of Bi2Se3 decorated with transition-metal atoms Cu or Au, explaining the observed unusual large BMR in experiments. <br />
 
 
 ## Higher-order Topology in Moiré Superlattice <br />
-{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" max_width="260px" align="left" %}
+{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" max_width="200px" align="left" %}
 
 We identified twisted bilayer α-graphyne as a new second-order topological insulator from
 first-principles and demonstrated that the second-order topological states in moiré honey-comb lattices are generally
