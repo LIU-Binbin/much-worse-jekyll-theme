@@ -29,7 +29,7 @@ exploring topological edge responses with projective symmetries in artificial sy
 ***
 {% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" max_width="180px" align="right" %} <br />
 ## Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
-We discover Rashba spin-splitting quantum well states developed near the surface of $Bi_2Se_3$ decorated with transition-metal atoms Cu or Au, which, with the band bending process, explains the observed unusual large BMR in experiments. <br />
+We discover Rashba spin-splitting quantum well states developed near the surface of \(Bi_2Se_3\) decorated with transition-metal atoms Cu or Au, which, with the band bending process, explains the observed unusual large BMR in experiments. <br />
 
 ***
 
