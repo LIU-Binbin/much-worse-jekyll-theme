@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpeg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/photo.jpeg" caption="" max_width="270px" align="right" %}
 
  I am a physics master’s student in Prof. Xian-Lei Sheng’s group at Beihang University, with broad research interests in topological condensed matter physics and material sciences. I am currently looking for a Ph. D. position focusing on computations and theories, although I am also interested in experiments in related fields.
 
