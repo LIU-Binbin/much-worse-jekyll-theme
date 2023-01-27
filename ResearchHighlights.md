@@ -27,3 +27,13 @@ simulations, which agree with our theoretical predictions. Our findings suggest 
 exploring topological edge responses with projective symmetries in artificial systems.
 
 {% include image.html url="assets/research/non-centerBZ.jpg" caption="" max_width="300px" align="right" %}
+
+
+# Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
+
+{% include image.html url="assets/research/rashba-bmr.jpg" caption="" max_width="300px" align="right" %}
+
+
+{% include image.html url="assets/research/tbgpy.jpg" caption="" max_width="300px" align="right" %}
+
+
