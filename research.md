@@ -1,7 +1,9 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Research Highlights
+
+<!--
 pubs:
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
@@ -34,3 +36,5 @@ pubs:
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
+
+-->
