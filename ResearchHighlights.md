@@ -33,7 +33,7 @@ exploring topological edge responses with projective symmetries in artificial sy
 We discover Rashba spin-splitting quantum well states developed near the surface of bismuth selenide decorated with transition-metal atoms Cu or Au, which, with the band bending process, explains the observed unusual large BMR in experiments. <br />
 
 
-{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" width="100px" align="left" %}
+{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" width="180px" align="left" %}
 ## Higher-order Topology in Moiré Superlattice <br />
 We identify the twisted bilayer α-graphyne as a new second-order topological insulator from first-principles and model calculations and demonstrat that the second-order topological states in moiré honey-comb lattices are generally induced by moiré magnetism or Zeeman fields.
 
