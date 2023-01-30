@@ -6,7 +6,7 @@ permalink: /ResearchHighlights/
 
 
 ## Non-centered inversion symmetry in momentum space <br />
-{% include image.html url="https://LIU-Binbin.github.io/assets/research/non-centerBZ.JPG" caption="" width="300px" align="left" %}
+{% include image.html url="https://LIU-Binbin.github.io/assets/research/non-centerBZ.JPG" caption="" width="260px" align="left" %}
 <!--We discovered non-centered inversion symmetries in the momentum space from projective
 symmetry algebras, identified and characterized novel twisted inverse topological edge
 states with off-centered crossing points in the momentum space, distinct from edge
@@ -28,13 +28,13 @@ simulations, which agree with our theoretical predictions. Our findings suggest 
 exploring topological edge responses with projective symmetries in artificial systems.<br />
 
 
-{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" width="180px" align="right" %}
+{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" width="190px" align="right" %}
 ## Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
 We discover Rashba spin-splitting quantum well states developed near the surface of bismuth selenide decorated with transition-metal atoms Cu or Au, which, with the band bending process, explains the observed unusual large BMR in experiments. <br />
 
 
-{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" width="180px" align="left" %}
 ## Higher-order Topology in Moiré Superlattice <br />
+{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" width="120px" align="left" %}
 We identify the twisted bilayer α-graphyne as a new second-order topological insulator from first-principles and model calculations and demonstrat that the second-order topological states in moiré honey-comb lattices are generally induced by moiré magnetism or Zeeman fields.
 
 
