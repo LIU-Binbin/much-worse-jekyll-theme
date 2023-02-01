@@ -6,11 +6,11 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" width="414px" height="660px" align="right" %}
 
- I am a physics master’s student in [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)’s group at Beihang University, with broad research interests in topological condensed matter physics and material sciences. I am currently looking for a Ph.D. position focusing on computations and theories, although I am also interested in experiments in related fields.
+ I am a physics master student in [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)’s group at Beihang University, with broad research interests in topological condensed matter physics and material sciences. I am currently looking for a Ph.D. position focusing on computations and theories, although I am also interested in experiments in related fields.
 
 # Short CV
-2020-2023: M. Sc. in Physics, School of Physics, Beihang University, Beijing, China. <br />
-2016-2020: B. Sc. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
+2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
+2016-2020: B. S. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
 You can also [view my latest full CV here](assets/CV_BinBin_Liu.pdf).
 
 # Publications
