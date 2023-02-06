@@ -19,6 +19,7 @@ $blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
 $white:      #ffffff;
+$DarkSlateBlue: #483D8B;
 
 $background:        $white;
 $dark-background:   darken($grey-vlight, 5%);
@@ -27,9 +28,10 @@ $text-light-color:  $grey;
 $url-color:         $red;
 $url-hover-color:   $orange;
 $header-text-color: $text-light-color;
-$header-hover-color:$blue;
+$header-hover-color:$text-color;
 $header-hover-url:  $url-color;
 $line-color:        $grey-light;
+$border-bottom-color $DarkSlateBlue;
 
 // Width of the content area
 $content-width:    50em;
