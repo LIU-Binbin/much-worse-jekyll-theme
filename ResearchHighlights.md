@@ -29,14 +29,13 @@ exploring topological edge responses with projective symmetries in artificial sy
 
 Ref: **Binbin Liu†**, Xian-Lei Sheng†, Yuxin Zhao† and Shengyuan A. Yang, _Non-centered inversion symmetry in momentum space_.  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]
 
-{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" width="200px" align="right" %}
 ## Large Bilinear Magnetoresistance (BMR) from Rashba Spin-Splitting on the Surface of a Topological Insulator <br />
+{% include image.html url="https://liu-binbin.github.io/assets/research/rashba-bmr.JPG" caption="" width="190px" align="right" %}
 We discover Rashba spin-splitting quantum well states developed near the surface of bismuth selenide decorated with transition-metal atoms Cu or Au, which, with the band bending process, explains the observed unusual large BMR in experiments. <br />
-
-Ref: Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022)]https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). 
+Ref: Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). 
 
 ## Higher-order Topology in Moiré Superlattice <br />
-{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" width="130px" align="left" %}
+{% include image.html url="https://liu-binbin.github.io/assets/research/tbgpy.JPG" caption="" width="180px" align="left" %}
 We identify the twisted bilayer α-graphyne as a new second-order topological insulator from first-principles and model calculations and demonstrat that the second-order topological states in moiré honey-comb lattices are generally induced by moiré magnetism or Zeeman fields.
 
 Ref: **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-
