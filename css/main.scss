@@ -22,8 +22,8 @@ $red:        #b6321c;
 $white:      #ffffff;
 
 $background:        $white;
-$border-bottom-color: $red;
-$border-top-color:  $border-bottom-color;
+$bottom-color: $red;
+$top-color:  $border-bottom-color;
 $dark-background:   darken($grey-vlight, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
