@@ -21,10 +21,7 @@ $orange:     #ca6c18;
 $red:        #b6321c;
 $white:      #ffffff;
 
-$background:        $white;
-$border-bottom-color: $grey-vlight;
-$border-top-color:  $grey-vlight;
-$border-left-color:  $grey-vlight;
+$background: linear-gradient(to bottom, white 0%, white 100%, $dsblue 100%, $dsblue 100%);
 $dark-background:   darken($grey-vlight, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
@@ -34,6 +31,7 @@ $header-text-color: $text-light-color;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
 $line-color:        $grey-light;
+
 
 
 // Width of the content area
