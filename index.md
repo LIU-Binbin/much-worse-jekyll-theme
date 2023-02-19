@@ -13,7 +13,7 @@ You can also [view my latest full CV here](assets/CV_BinBin_Liu.pdf).
 
 # Publications
 [1] **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-
-graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/export/10.1103/PhysRevB.106.035153). [[PDF](assets/papers/PhysRevB.106.035153.pdf)]<br />
+graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035153). [[PDF](assets/papers/PhysRevB.106.035153.pdf)]<br />
 [2] Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022), (Letter)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). [[PDF](assets/papers/PhysRevB.106.L241401.pdf)] <br />
 [3] **Binbin Liu†**, Xian-Lei Sheng†, Yuxin Zhao† and Shengyuan A. Yang, _Non-centered inversion symmetry in momentum space_. (To be submitted to PRL.)  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]<br />
 [4] Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_. (Submitted to PRB.) [[PDF](assets/papers/3DGPY.pdf)]<br />
