@@ -6,7 +6,7 @@ permalink: /ResearchHighlights/
 
 
 ## Non-centered inversion symmetry in momentum space <br />
-{% include image.html url="https://LIU-Binbin.github.io/assets/research/non-centerBZ" caption="" width="260px" align="left" %}
+{% include image.html url="https://LIU-Binbin.github.io/assets/research/non-centerBZ.png" caption="" width="260px" align="left" %}
 <!--We discovered non-centered inversion symmetries in the momentum space from projective
 symmetry algebras, identified and characterized novel twisted inverse topological edge
 states with off-centered crossing points in the momentum space, distinct from edge
