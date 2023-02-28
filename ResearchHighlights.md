@@ -35,10 +35,10 @@ We discover Rashba spin-splitting quantum well states developed near the surface
 
 Ref: Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). 
 
-## Higher-order Topology in Moiré Superlattice <br />
+## Higher-order Topology in Graphyne Families <br />
 {% include image.html url="/assets/research/tbgpy.png" caption="" width="230px" align="left" %}
-We identify the twisted bilayer α-graphyne as a new second-order topological insulator from first-principles and model calculations and demonstrate that the second-order topological states in moiré honey-comb lattices are generally induced by moiré magnetism or Zeeman fields.
+{% include image.html url="/assets/research/3dgpy.png" caption="" width="210px" align="right" %}
+We identified twisted bilayer α-graphyne and γ-graphyne as second-order topological insulators in 2D and real Chern insulators with higher-order hinge states in 3D, respectively, using first-principles calculations [1,4], and demonstrated the induction of higher-order topological states in these materials through effective moiré magnetism or Zeeman fields [1,4-6].<br />
 
-Ref: **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-
-graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/export/10.1103/PhysRevB.106.035153).
-
+Ref: **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/export/10.1103/PhysRevB.106.035153).<br />
+Xu-Tao Zeng, **Binbin Liu** et al.,_Three-dimensional real Chern insulator in bulk γ-graphyne_. (Submitted to PRB.) [[PDF](assets/papers/3DGPY.pdf)]

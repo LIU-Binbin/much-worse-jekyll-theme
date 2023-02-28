@@ -15,9 +15,9 @@ You can also [view my latest full CV here](assets/CV_BinBin_Liu.pdf).
 [1] **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-
 graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035153). [[PDF](assets/papers/PhysRevB.106.035153.pdf)]<br />
 [2] Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022), (Letter)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). [[PDF](assets/papers/PhysRevB.106.L241401.pdf)] <br />
-[3] **Binbin Liu†**, Xian-Lei Sheng†, Yuxin Zhao† and Shengyuan A. Yang, _Non-centered inversion symmetry in momentum space_. (To be submitted to PRL.)  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]<br />
-[4] Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_. (Submitted to PRB.) [[PDF](assets/papers/3DGPY.pdf)]<br />
-[5] Xu-Tao Zeng, Ziyu Chen, Cong Chen, **Binbin Liu**, et al., _Topological hinge modes in Dirac semimetals_, [Front. Phys. 18, 13308 (2023)](https://link.springer.com/article/10.1007/s11467-022-1221-y). <br />
+[3] Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_, [arXiv: 2302.13090](https://arxiv.org/abs/2302.13090). (Submitted to PRB.) [[PDF](https://arxiv.org/pdf/2302.13090.pdf)]<br />
+[4] **Binbin Liu†**, Xian-Lei Sheng†, Yuxin Zhao† and Shengyuan A. Yang, [_Non-centered inversion symmetry in momentum space_](/ResearchHighlights/). (To be submitted to PRL.)  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]<br />
+[5] Xu-Tao Zeng, Ziyu Chen, Cong Chen, **Binbin Liu**, et al., _Topological hinge modes in Dirac semimetals_, [Front. Phys. 18, 13308 (2023)](https://link.springer.com/article/10.1007/s11467-022-1221-y). [[PDF](https://arxiv.org/pdf/2203.05168.pdf)]<br />
 [6] **Binbin Liu** et al., _First and second-order topological insulator in 2D elementary materials_.
 (Invited review, in preparation.) <br />
 [7] **Binbin Liu**, _Spinless eightfold fermions from projective symmetries_. (In preparation.) <br />
