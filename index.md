@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /
 ---
-{% include image.html url="images/photo.jpg" caption="" width="400px"  align="right" %}
- I am a physics master's student in [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)’s group at Beihang University, with broad research interests in topological condensed matter physics and material sciences. I am currently looking for a Ph.D. position focusing on computations and theories, although I am also interested in experiments in related fields.
+{% include image.html url="images/photo.jpg" caption="" width="220px"  align="right" %}
+ I am a physics master's student in [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)’s group at Beihang University, with a broad research interest in condensed matter physics. Specifically, I am focused on exploring the topological properties of materials and metamaterials that have exciting potential applications. I'm also interested in studying biological and complex systems and enjoy developing numeric techniques to study them. 
+ 
+  I am currently seeking a Ph.D. position in related fields, with a particular focus on computations and theories. However, I am also open to opportunities that involve experimental study. 
 
 # Short CV
 2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
