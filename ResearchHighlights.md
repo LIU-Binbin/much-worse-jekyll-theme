@@ -11,21 +11,14 @@ permalink: /ResearchHighlights/
 symmetry algebras, identified and characterized novel twisted inverse topological edge
 states with off-centered crossing points in the momentum space, distinct from edge
 states protected by the normal inversion symmetry. Designed topological circuits to
-simulate the nontrivial states.-->
-
+simulate the nontrivial states.
 The spacial inversion symmetry inverses the position and momentum of a physical system relative to the original point. Here,
-we discover a new kind of inversion symmetry that inverses the real space position relative to the
-origin but is _non-centered_ in the momentum space. We derive the _momentum-non-centered inversion
-symmetry_ with projectively enriched symmetry algebras and demonstrate it in Hamiltonians in
-π-flux lattices in both 2D and 3D. 
+-->
 
-With the non-centered inversion symmetry, we discover Mobius insulators with shifted-inverse
-edge states at half-fillings and a high Chern number insulator that has off-centered chiral edge
-states at quarter-fillings, which have not been reported before. We also define quantized topological
-numbers that indicate the existence of the novel edge states with off-centered crossing points in the
-momentum space. We design topological circuits that correspond to our Hamiltonian and perform
-simulations, which agree with our theoretical predictions. Our findings suggest new routes for
-exploring topological edge responses with projective symmetries in artificial systems.<br />
+
+We discover a new form of inversion symmetry that inverses the real space position relative to the origin but is _non-centered_ in the momentum space. We derive the _momentum-non-centered inversion symmetry (MNCIS)_ with projectively enriched symmetry algebras and demonstrate it in π-flux lattices in both 2D and 3D. 
+
+With the MNCIS, we discover very interesting states that have not been reported before, such as Mobius insulators with shifted-inverse edge states and a high Chern number insulator that has off-centered chiral edge states. We also define quantized topological numbers that capture the topology enforced by the MNCIS. To realize our theory, we design topological circuits to simulate our model Hamiltonians, which suggest new routes for exploring artificial systems and metamaterials with projective symmetries.<br />
 
 Ref: **Binbin Liu†**, Xian-Lei Sheng†, Yuxin Zhao† and Shengyuan A. Yang, _Non-centered inversion symmetry in momentum space_.  [[PDF](assets/papers/MomentumNonCenteredInv_main.pdf)]
 
