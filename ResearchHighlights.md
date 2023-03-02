@@ -10,7 +10,7 @@ permalink: /ResearchHighlights/
 We identified twisted bilayer α-graphyne and γ-graphyne as second-order topological insulators in 2D and real Chern insulators with higher-order hinge states in 3D, respectively, using first-principles calculations, and demonstrated the induction of higher-order topological states in these materials through effective moiré magnetism or Zeeman fields.<br />
 
 Ref: **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/export/10.1103/PhysRevB.106.035153).<br />
-Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_, [arXiv: 2302.13090](https://arxiv.org/abs/2302.13090). (Submitted to PRB.) [[PDF](https://arxiv.org/pdf/2302.13090.pdf)]
+Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_, [arXiv: 2302.13090](https://arxiv.org/abs/2302.13090). (Submitted to PRB.) 
 
 
 ## Non-centered inversion symmetry in momentum space <br />
