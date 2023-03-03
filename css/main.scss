@@ -27,8 +27,8 @@ $margin-color: $red;
 $dark-background:   darken($grey-vlight, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
-$url-color:         $red;
-$url-hover-color:   $orange;
+$url-color:         $dsblue;
+$url-hover-color:   $blue;
 $header-text-color: $text-light-color;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
@@ -38,7 +38,7 @@ $line-color:        $grey-light;
 
 // Width of the content area
 $content-width:    50em;
-$content-min-width:15em;
+$content-min-width:5em;
 $mobile:           32em;
 $desktop:          50em;
 
