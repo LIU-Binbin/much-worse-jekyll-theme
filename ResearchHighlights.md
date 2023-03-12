@@ -13,7 +13,7 @@ Ref: **Binbin Liu** et al., _Second-order and real Chern topological insulator i
 Xu-Tao Zeng, **Binbin Liu**, et al., _Three-dimensional real Chern insulator in bulk γ-graphyne_, [arXiv: 2302.13090](https://arxiv.org/abs/2302.13090). (Submitted to PRB.) 
 
 
-## Non-centered inversion symmetry in momentum space <br />
+## Non-centered Inversion Symmetry in Momentum Space <br />
 {% include image.html url="/assets/research/non-centerBZ.png" caption="" width="260px" align="left" %}
 <!--We discovered non-centered inversion symmetries in the momentum space from projective
 symmetry algebras, identified and characterized novel twisted inverse topological edge
