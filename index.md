@@ -5,7 +5,7 @@ permalink: /
 ---
 <!-- {% include image.html url="images/photo.jpg" caption="" width="220px"  align="right" %}
 -->
- Hi, I am a physics master's student in [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)’s group at Beihang University, with a broad research interest in **condensed matter physics**. Specifically, I am focused on exploring the **topological properties** of materials and metamaterials that have exciting potential applications. I'm also interested in studying **strongly correlated** and **complex systems** and enjoy developing numeric techniques to study them. 
+ Hi, I am a physics master's student, part of [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)'s group at Beihang University, and collaborating with [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at SUTD. My research mainly focuses on investigating the **topological properties** of materials and metamaterials with potential applications. I'm also interested in studying **complex** and **strongly correlated** systems and developing numeric techniques to explore them. 
  
   I am actively seeking a Ph.D. position in condensed matter physics and related fields, with a focus on computations and theories. 
 
