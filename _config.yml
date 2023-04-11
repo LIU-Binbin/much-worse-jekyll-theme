@@ -1,9 +1,9 @@
-title: Binbin LIU
+title: Home
 description: Copyright © 2023 Binbin LIU. All rights reserved
 
 
 permalink: blog/:year/:month/:day/:title
-exclude: ["Makefile", "README.md"]
+exclude: ["Makefile", "README.md", "research.md", "cv.md"]
 
 url: "http://liu-binbin.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog

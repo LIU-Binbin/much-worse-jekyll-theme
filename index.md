@@ -1,20 +1,21 @@
 ---
 layout: page
-title: About
+title:  <h1 class="center">Binbin LIU</h1>
 permalink: /
 ---
+
 <!-- {% include image.html url="images/photo.jpg" caption="" width="220px"  align="right" %}
 -->
- Hi, I am a physics master's student, part of [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)'s group at Beihang University, and collaborating with [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at SUTD. My research mainly focuses on investigating the **topological properties** of materials and metamaterials with potential applications. I'm also interested in studying **complex** and **strongly correlated** systems and developing numeric techniques to explore them. 
+I am a physics master's student, part of [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)'s group at Beihang University, and collaborating with [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at SUTD. My research mainly focuses on investigating the **topological properties** of materials and metamaterials with potential applications. I'm also interested in studying **complex** and **strongly correlated** systems and developing numeric techniques to explore them. 
  
   I am actively seeking a Ph.D. position in condensed matter physics and related fields, with a focus on computations and theories. 
 
-# Short CV
+## Short CV
 2020-2023: M. S. in Physics, School of Physics, Beihang University, Beijing, China. <br />
 2016-2020: B. S. in Applied Physics, Honors College, Beihang University, Beijing, China. <br />
 You can also [view my latest full CV here](assets/CV_BinBin_Liu.pdf).
 
-# Publications
+## Publications
 [1] **Binbin Liu** et al., _Second-order and real Chern topological insulator in twisted bilayer α-
 graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035153). [[PDF](assets/papers/PhysRevB.106.035153.pdf)]<br />
 [2] Wang Yang\*, **Binbin Liu\***, Yue-Xin Huang\*, et al., _Large bilinear magnetoresistance from Rashba spin-splitting on the surface of a topological insulator_, [Phys. Rev. B 106, L241401 (2022), (Letter)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L241401). [[PDF](assets/papers/PhysRevB.106.L241401.pdf)] <br />
@@ -30,11 +31,11 @@ graphyne_, [Phys. Rev. B 106, 035153 (2022)](https://journals.aps.org/prb/abstra
 
 
 ## Contact
-Binbin LIU, Beihang University <br />
 Email: [bbliu@buaa.edu.cn]
 
 
 <!-- 
+Binbin LIU, Beihang University <br />
 [Yavin] <br />
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
 -->
