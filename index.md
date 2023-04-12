@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Binbin LIU
 permalink: /
 ---
-# Binbin LIU
+
 <!-- {% include image.html url="images/photo.jpg" caption="" width="220px"  align="right" %}
 <h1 class="center">Binbin LIU</h1>
 -->

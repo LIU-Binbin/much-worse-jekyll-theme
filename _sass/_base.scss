@@ -17,7 +17,7 @@ body {
     line-height: $base-line-height;
     color:       $text-color;
     background-color: $background;
-    margin: 0 $spacing-unit/2;
+    margin: $spacing-unit/2;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -58,6 +58,7 @@ figcaption {
 //  Lists
 ul, ol {
     margin-left: $spacing-unit;
+    font-weight: nomal;
 }
 
 li {
