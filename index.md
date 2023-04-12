@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  <h1 class="center">Binbin LIU</h1>
 permalink: /
 ---
-
+# Binbin LIU
 <!-- {% include image.html url="images/photo.jpg" caption="" width="220px"  align="right" %}
+<h1 class="center">Binbin LIU</h1>
 -->
 I am a physics master's student, part of [Prof. Xian-Lei Sheng](https://scholar.google.com/citations?user=MDetOEgAAAAJ)'s group at Beihang University, and collaborating with [Prof. Shengyuan A. Yang](https://scholar.google.com/citations?user=Q-eIAcIAAAAJ) at SUTD. My research mainly focuses on investigating the **topological properties** of materials and metamaterials with potential applications. I'm also interested in studying **complex** and **strongly correlated** systems and developing numeric techniques to explore them. 
  
